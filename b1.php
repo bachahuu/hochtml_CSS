@@ -30,10 +30,10 @@
                 <h1>information manager</h1>
                <h2>
                 <ul>
-                <li><a href="">Cập nhật loại sách</a></li>
-                <li><a href="">Cập nhật tác giả</a></li>
-                <li><a href="">Cập nhật nhà xuất bản </a></li>
-                <li><a href="">cập nhật độc giả</a></li>
+                <li><a href="">Thêm loại sách</a></li>
+                <li><a href="">Thêm tác giả</a></li>
+                <li><a href="">Thêm nhà xuất bản </a></li>
+                <li><a href="">Thêm độc giả</a></li>
                </ul>
             </h2>
                 </div>
