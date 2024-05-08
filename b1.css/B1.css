@@ -1,0 +1,81 @@
+.header {
+  height: 90px;
+  background-color: blue;
+}
+.header > img {
+  width: 300px;
+  height: 100px;
+  padding: 10px 20px 10px 0px;
+}
+a {
+  text-decoration: none;
+}
+.menu {
+  background-color: blueviolet;
+}
+.menu > ul > li {
+  float: left;
+  padding: 5px 40px 20px 50px;
+  list-style: none;
+}
+.menu > ul > li a:hover {
+  display: inline-block;
+  background-color: rgb(43, 43, 226);
+  color: white;
+}
+.menu_left {
+  font-size: 10px;
+  width: 197px;
+  border: 1px dashed #000;
+  padding: 10px;
+}
+.menu_left > h2 > ul > li {
+  list-style: none;
+  line-height: 30px;
+  height: 45px;
+}
+.menu_left > h2 > ul > li:hover {
+  display: inline-block;
+  background-color: blueviolet;
+}
+.radio {
+  float: left;
+  padding: 0px 168px;
+}
+.conten {
+  background-color: antiquewhite;
+}
+.conten > ul > li {
+  list-style: none;
+  line-height: 35px;
+  margin-bottom: 10px;
+}
+.line1 {
+  margin-left: 98px;
+}
+.line2 {
+  margin-left: 98px;
+}
+.line3 {
+  margin-left: 124px;
+}
+.line4 {
+  margin-left: 124px;
+}
+.line5 {
+  margin-left: 101px;
+}
+.line6 {
+  margin-left: 110px;
+}
+.line7 {
+  margin-left: 170px;
+}
+.footer {
+  height: 100px;
+  background-color: blue;
+}
+.section {
+  border-bottom: 1px dashed #000;
+  padding-bottom: 30px;
+}
